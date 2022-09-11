@@ -1,0 +1,22 @@
+{
+  "username": "arziqb/ip",
+  "album": ["iphone"],
+  "init_jumlah_photo": 150,
+  "admob_banner_id": "ca-app-pub-9160001534541342/5129581059",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/4834067582",
+  "admob_native_id": "ca-app-pub-9160001534541342/7336789064",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/6700563466",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/2207904249",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "207443538",
+  "unity_id": "4875419",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 5,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}

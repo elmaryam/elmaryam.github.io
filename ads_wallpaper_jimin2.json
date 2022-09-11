@@ -1,0 +1,22 @@
+{
+  "username": "nhali1233/stb",
+  "album": ["jimin"],
+  "init_jumlah_photo": 800,
+  "admob_banner_id": "ca-app-pub-9160001534541342/2701847351",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/5755138684",
+  "admob_native_id": "ca-app-pub-9160001534541342/9075684017",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/7983643010",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/4628376383",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "206746550",
+  "unity_id": "4828580",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 5,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
