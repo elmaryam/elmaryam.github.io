@@ -1,7 +1,7 @@
 {
   "username": "yabbieo/bp",
   "album": ["blackpink", "jisoo", "lisa", "rose", "jennie"],
-  "init_jumlah_photo": 250,
+  "init_jumlah_photo": 300,
   "admob_banner_id": "ca-app-pub-9160001534541342/6454363873",
   "admob_interstitial_id": "ca-app-pub-9160001534541342/6051625921",
   "admob_native_id": "ca-app-pub-9160001534541342/7584484856",
