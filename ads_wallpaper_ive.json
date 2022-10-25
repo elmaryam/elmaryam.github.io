@@ -1,0 +1,22 @@
+{
+  "username": "yabbieo/ive",
+  "album": ["ive","woyoung","rei","yujin","leeso","gaeul","liz"],
+  "init_jumlah_photo": 200,
+  "admob_banner_id": "ca-app-pub-9160001534541342/8875556850",
+  "admob_interstitial_id": "ca-app-pub-9160001534541342/2493147186",
+  "admob_native_id": "ca-app-pub-9160001534541342/7370903496",
+  "admob_rewarded_id": "ca-app-pub-9160001534541342/4341294361",
+  "admob_rewarded_interstitial_id": "ca-app-pub-9160001534541342/7983643010",
+  "admob_open_app_id": "ca-app-pub-9160001534541342/4744740159",
+  "admob_hpk_1": "insurance",
+  "admob_hpk_2": "jago",
+  "admob_hpk_3": "telkomsel",
+  "admob_hpk_4": "jenius",
+  "admob_hpk_5": "bts",
+  "startapp_app_id": "206211497",
+  "unity_id": "4828559",
+  "unity_banner": "Banner_Android",
+  "unity_interstitial": "Interstitial_Android",
+  "interstitial_inverval": 3,
+  "list_ads": ["ADMOB", "UNITY", "STARTAPP"]
+}
