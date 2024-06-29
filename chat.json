@@ -1,0 +1,534 @@
+{
+"More":
+[
+  {
+    "id":1,
+    "title":"BTS Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/yBrwZCKDQO8foMPdJuVDhHbiCwbB66eXuLRTdu2571ZvYvTeGj_mM9MEdDBbyQDi7s4=w480-h960-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.bts1wallpaper"
+  },
+  {
+    "id":2,
+    "title":"Jungkook Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/_VcZ08LMXG8uoHj5AtYFr1_Y0DwJFaI9WFMcZbeRUEb__X7bcqkWpXa3TAJCvoM2Kb-b=w480-h960-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.maryamstudio.jungkookwallpaper"
+  },
+  {
+    "id":3,
+    "title":"Jin Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/aHP15QDx065mDOcRkpqgWVXgI2C_PTHuCuQ8Xy2TxOs-m6v13a7WTPMjZhnu2nu1fJ1t=s512-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.jinwallpaper"
+  },
+  {
+    "id":4,
+    "title":"RM Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/m2mNc-dANSHTQ79cRRP-P06pFRYnRFeUOZVgkUUKk58L-FUtub2LAouaHvT11FDNpq8=s512-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.rmwallpaper"
+  },
+  {
+    "id":5,
+    "title":"Suga Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/cyE6jl9aHNao_wHZLnvJO3U88b2gxdRYEtbp_KFJPGceq47VQ7sD31iwOxaR6LDYwkw=w480-h960-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.sugawallpaper"
+  },
+  {
+    "id":6,
+    "title":"V Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/OiQQuOcVJYjpG2zYKwXYCzPHohnyzBdrettq6iSV-vbj44Mo0jCo5bI3K4OLs6-LJA=s512-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.taehyungwallpaper"
+  },
+  {
+    "id":7,
+    "title":"J-Hope Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/0obRN0fu1C6avTAxgJ430GkT_GRSmbJetwOH1nXZvUMmvEJxGvAHGl9zgDPyAF_D0Q=s512-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.jhopewallpaper"
+  },
+  {
+    "id":8,
+    "title":"Jimin Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/kyEnsqtUChJ98BRa0ee3TikkVYzMn7DHZ2gsVUsPVgpVMO8Vix69C9P9irr0KzKUHA=s512-rw",
+    "link":"https://play.google.com/store/apps/details?id=id.hanastudios.jiminwallpaper"
+  }
+],
+  "list_contact" : [
+    {
+      "id" : "1",
+      "name" : "Jungkook",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jungkook.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    },
+    {
+      "id" : "2",
+      "name" : "Jimin",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jimin.jpeg",
+      "message" : "Hello",
+      "time" : "yesterday"
+    },
+    {
+      "id" : "3",
+      "name" : "Jin",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jin.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    },
+    {
+      "id" : "4",
+      "name" : "Suga",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/suga.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    },
+    {
+      "id" : "5",
+      "name" : "V",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/v.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    },
+    {
+      "id" : "6",
+      "name" : "RM",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/rmjpg.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    },
+    {
+      "id" : "7",
+      "name" : "J-Hope",
+      "imageUrl" : "https://arziq.github.io/fakechat/bts/jhope.jpg",
+      "message" : "Hello",
+      "time" : "today"
+    }
+   
+],
+"chat" :
+  [
+    [
+      {
+        "ask" : [["yn", 
+        "are you there?",
+        "I am boring"
+       ]],
+        "answer" : ["me too", "yes i am here for you"]
+      },
+      {
+        "ask" : [["are you sure?","lets talk about something"], ["nice", "lets talk about something"]],
+        "answer" : ["okay lets talking", "suggest topic to talk about"]
+      },
+      { 
+        "ask" : [["okay" , "actually i want to ask you yn?", "i really like a girl but idk to tell her"] ,["can we talk about love?","actually i want to ask you yn?","i really like a girl but idk to tell her"]],
+        "answer" : ["very simple just tell her that you like her", "hmm just ask her to the movies this weekend"]
+      },
+      { 
+        "ask" : [["i like you" , "do you want to the movies in this weekend"] ,["okay","do you want to the movies in this weekend"]],
+        "answer" : ["no i meant ask her", "who? me? really"]
+      },
+      { 
+        "ask" : [["yes i did","i like you","cause you have something special thats make me into you"] ,["yes of course you","cause you have something special thats make me into you"]],
+        "answer" : ["i like you too", "what is this things"]
+      },
+      { 
+        "ask" : [["are you sure?","actually there’s none except you that make laugh out loud", "thats why I want you to know that I love you yn"],["the things is there’s none except you that make laugh out loud","thats why I want you to know that I love you yn"]],
+        "answer" : ["awww you make me shy","am I really special to you?"]
+      },
+      { 
+        "ask" : [["am I ?","you are really special to me?", "and I want to stay with you for a long time","but i’ve to go","i will call you as soon as possible"],["you are really special to me?","and I want to stay with you for a long time","but i’ve to go","i will call you as soon as possible"]],
+        "answer" : ["awww you make me shy","am I really special to you?"]
+      }
+    ],
+    [
+      {
+        "ask" : [["yn","whats up"]],
+        "answer" : ["hi oppa", "hello"]
+      },
+      {
+        "ask" : [["where did you disappear?"], ["where did you disappear?"]],
+        "answer" : ["i am here all the time", "nothing special i just rest"]
+      },
+      { 
+        "ask" : [["I missed you" , "yn", "why you didnt text me?"] ,["I missed you" , "yn", "why you didnt text me?"]],
+        "answer" : ["i miss you too, no you are in my mind", "thanks oppa, i am sorry i was busy yesterday"]
+      },
+      { 
+        "ask" : [["so can we hang out tommorow" , "we will going to amusement park"] ,["so can we hang out today?","we will going to amusement park"]],
+        "answer" : ["wow of course any time you want","emm i am sorry oppa, today i have to go supermarket"]
+      },
+      { 
+        "ask" : [["nice I will pick you up","and we will make every BTS members get jealous"] ,["okay, I will take you to supermarket","shopping together","and we will make every BTS members get jealous"]],
+        "answer" : ["hahah, lets make them jealous oppa"," hahah, don’t make them jealous oppa"]
+      },
+      { 
+        "ask" : [["yeahh yn","we will share our picture on instagram"],["why yn","we will share our picture on instagram"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
+      },
+      { 
+        "ask" : [["yes baby","I want to all the world see us","see you tomorrow yn","I cant wait to see you"],["why? you are most beautiful woman that i’ve ever met","I want to all the world see us","see you tomorrow yn","I cant wait to see you"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
+      }
+    ],
+    [
+      {
+        "ask" : [["anyeonghaseyo","yn", "its mean hi"]],
+        "answer" : ["anyeonghaseyo oppa", "i know its means hi"]
+      },
+      {
+        "ask" : [["oh nice","can you speak korean?"], ["really?","can you speak korean?"]],
+        "answer" : ["yes i can", "a little bit oppa"]
+      },
+      { 
+        "ask" : [["wow amazing" , "do you ever visit korea?", "i means visit seoul"] ,["thats okay" , "do you ever visit korea?", "i means visit seoul"]],
+        "answer" : ["no never", "yes i did"]
+      },
+      { 
+        "ask" : [["never mind" , "you’are always welcome to visit korea,","i have visited a lot of country"] ,["really? you must visit korea again", "you’are always welcome to visit korea,","i have visited a lot of country"]],
+        "answer" : ["wow thats amazing","how was journey?"]
+      },
+      { 
+        "ask" : [["yes yn you should visit many country","each country has its own beauty","we will visit them soon in world tour"] ,["i am fasccinated", "each country has its own beauty","we will visit them soon in world tour"]],
+        "answer" : ["i am glad to hear that but I get jealous because I wasnt with you","thats awesome"]
+      },
+      { 
+        "ask" : [["you can go with me later in world tour"],["yeaah its awesome","you can go with me later in world tour"]],
+        "answer" : ["OMG, are you sure?","sounds good"]
+      },
+      { 
+        "ask" : [["yes yn","manager oppa will send you a ticket","but I’ve to go practice for world tour","thanks me later on another country","see you yn"],["manager oppa will send you a ticket", "but I’ve to go practice for world tour","thanks me later on another country","see you yn"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
+      }
+    ],
+    [
+      {
+        "ask" : [["hey yn"]],
+        "answer" : ["hi oppa", "hello oppa"]
+      },
+      {
+        "ask" : [["how are you?"], ["how are you?"]],
+        "answer" : ["i am okay", "i am fine"]
+      },
+      { 
+        "ask" : [["nice" , "yesterday I was thingking about you before sleep"] ,["cool" , "yesterday I was thingking about you before sleep"]],
+        "answer" : ["really, oh you make me shy oppa", "what are you thinking about me?"]
+      },
+      { 
+        "ask" : [["really" , "actually I want more close with you"] ,["cutest woman that I’ve ever met", "actually I want more close with you"]],
+        "answer" : ["OMG thats so sweet","you are such liar oppa"]
+      },
+      { 
+        "ask" : [["yes sweetie","how about dinner tonight?"] ,["no sweetie","i am not liar", "how about dinner tonight?"]],
+        "answer" : ["of course oppa, you can send me location?","I want but I am sorry I will be late"]
+      },
+      { 
+        "ask" : [["yes yn","you can go to Seonyang Restaurant","I am sorry I cant pick you up","Cause I am still practice with BTS members"],["thats ok yn","you can go to Seonyang Restaurant","I am sorry I cant pick you up","Cause I am still practice with BTS members"]],
+        "answer" : ["thats okay oppa","nevermind I will there at 20:00"]
+      },
+      { 
+        "ask" : [["I cant wait to met you as soon as possible"],["see you you as soon as possible"]],
+        "answer" : ["OMG you will share our picture in your instagram","No oppa please, I am shy"]
+      }
+    ]
+    ,
+    [
+      {
+        "ask" : [["hi","most beautiful woman that I’ve ever met"]],
+        "answer" : ["hello oppa, where are you?", "why are you ignoring my text"]
+      },
+      { 
+        "ask" : [["I am in office yn",
+        "these days we have a lot of dance practice",
+        "i am very tired"
+      ],["I am not ignoring your text in purpose yn",
+      "these days we have a lot of dance practice",
+      "i am very tired"]],
+        "answer" : ["thats great", "are you going to comeback oppa?"]
+      },
+      { 
+        "ask" : [["yeah its great" , "we have practice a lot to our comeback for army"] ,["yes we will comeback for a new album", "we have practice a lot to our comeback for army"]],
+        "answer" : ["I cant wait oppa","tell me your new song please"]
+      },
+      { 
+        "ask" : [["of course", 
+        "but I cant tell you about my new song", 
+        "the point is we have new great song"
+      ] ,["no baby",
+      "I cant tell you about my new song", 
+        "the point is we have new great song"
+      ]],
+        "answer" : ["please let me know oppa","thats okay oppa, I will wait until official release"]
+      },
+      { 
+        "ask" : [["no yn", 
+        "but if you want", 
+        "you can come and see our practice next time",
+        "but dont tell anyone"],["thats my baby",
+       "but if you want", 
+         " you can come and see our practice next time",
+          "but dont tell anyone"]],
+        "answer" : ["OMG really, I won’t tell anyone","wait a second, I will tell my closer friend"]
+      },
+      { 
+        "ask" : [["yes yn",
+        "you cant tell anyone about that"],["wait", 
+        "no yn",
+        "you cant tell anyone about that"
+      ]],
+        "answer" : ["I won’t oppa"]
+      },
+      {
+        "ask":[
+          [
+           " okay yn",
+	        "see you at office on 14:30"
+          ],
+          [
+           " okay yn",
+	          "see you at office on 14:30"
+          ]
+        ],
+        "answer" : ["I won’t oppa"]
+      }
+    ],
+    [
+      {
+        "ask" : [
+          [ 
+            "yn",
+            "are you in your home?"
+          ]
+        ],
+        "answer" : [
+          "yes oppa why?",
+	        "of course oppa, I am in home"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "awesome", 
+            "can I talk to your mom?"
+          
+          ],
+          [ 
+            "awesome", 
+            "can I talk to your mom?"
+          
+          ]
+        ],
+        "answer" : [
+          "what, why?", 
+	        "talking to my mom, why?"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "I want to tell her", 
+	          "that her daughter is most cutest woman that I’ve ever seen"   
+          ],
+          [ 
+            "I want to tell her", 
+	          "that her daughter is most cutest woman that I’ve ever seen"   
+          ]
+        ],
+        "answer" : [
+          "really",
+	        "you are such liar oppa"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "of course yn",
+            "you are really special for me"
+          ],
+          [ 
+            "no yn",
+            "you are really special for me"
+          ]
+        ],
+        "answer" : [
+          "really, OMG you make me shy",
+	        "you know the way to make me shy"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "haha",
+            "I like you more, the world may know but don't be scared",
+            "now I am smiling cause see your photo"
+          ],
+          [ 
+            "haha",
+            "I like you more, the world may know but don't be scared",
+            "now I am smiling cause see your photo"
+          ]
+        ],
+        "answer" : [
+          "me too oppa",
+	        "oppa, did you know the wallpaper of my phone is you oppa"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "where did you get my photo?"
+           
+          ],
+          [ 
+            "where did you get my photo?"
+           
+          ]
+        ],
+        "answer" : [
+          "I have a lot oppa, but I cant get enough",
+	        "screenshot instagram oppa"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "you can download BTS Wallpaper or my wallpaper on Hana Studio in Playstore",
+	          "you don’t need screenshot cause you can easily save my photo",
+            "theres a lot of photo and updated newest photos fastest"
+          ],
+          [ 
+            "you can download BTS Wallpaper or my wallpaper on Hana Studio in Playstore",
+	          "you don’t need screenshot cause you can easily save my photo",
+            "theres a lot of photo and updated newest photos fastest"
+          ]
+          
+        ],
+        "answer" : [
+          "I have a lot oppa, but I cant get enough",
+	        "screenshot instagram oppa"
+        ]
+      }
+    ],
+    [
+      {
+        "ask" : [
+          [ 
+            "yn", 
+            "what are you doing?"
+          ],
+          [ 
+            "yn", 
+            "what are you doing?"
+          ]
+          
+        ],
+        "answer" : [
+          "do nothing oppa",
+	        "texting with you oppa"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "OMG are you boring?", 
+            "shall we play a game"
+          ],
+          [ 
+            "yes I know",
+            "shall we play a game" 
+          ]
+          
+        ],
+        "answer" : [
+          "yes oppa, I love games",
+	        "lets playing game oppa"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "okay lets start our game",
+	          "i will make you choose between two different?",
+	          "morning / night"
+          ],
+          [ 
+            "lets play",
+	          "i will make you choose between two different?",
+	          "morning / night"
+          ]
+        ],
+        "answer" : [
+          "night",
+	        "morning"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "me too", 
+            "coffee or tea"
+          ],
+          [ 
+            "me too", 
+            "cofee or tea"
+          ]
+        ],
+        "answer" : [
+          "coffee",
+	        "tea"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "omg same again",
+            "dog or cat"
+          ],
+          [ 
+            "omg same again",
+            "dog or cat"
+          ]
+        ],
+        "answer" : [
+          "of course cute miaw miaw",
+	        "of couse I choose cute dog as always"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "but you are cutest", 
+            "yn", 
+            "me or justin bieber"
+            
+          ],
+          [ 
+            "but you are cutest", 
+            "yn", 
+            "me or justin bieber"
+          ]
+        ],
+        "answer" : [
+          "youu",
+	        "justin bieber LOL"
+        ]
+      },
+      {
+        "ask" : [
+          [ 
+            "Really yn",
+            "I like you too",
+            "I will pick you up to go dinner",
+            "get prepare baby"
+          ],
+          [ 
+            "okay",
+            "thank you", 
+            "I will go", 
+            "see you"
+          ]
+        ],
+        "answer" : [
+          "youu",
+	        "justin bieber LOL"
+        ]
+      }
+    ]
+  ]
+}
